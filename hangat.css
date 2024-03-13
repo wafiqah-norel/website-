@@ -1,11 +1,11 @@
 
-.kepala {
+.header {
     font-family: 'Times New Roman', Times, serif;
     background-color: crimson;
     text-align: center;
 }
 
-.badan {
+.body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
 }
