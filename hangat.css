@@ -6,10 +6,38 @@
 }
 
 .body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'ABeeZee';
     font-size: large;
 }
 
+.menu {
+    background-color: tomato;
+    text-align: center;
+}
+
+.coloumncurang{
+    float: left;
+    padding: 10px;
+    height: 100px;
+}
+
+.coloumncoklat{
+    float: left;
+    padding: 10px;
+    height: 100px;
+}
+
+.coloumndonut{
+    float: left;
+    padding: 10px;
+    height: 100px;
+}
+
+.coloumnkurma{
+    float: left;
+    padding: 10px;
+    height: 100px;
+}
 .div {
     width: 320px;
     height: 50px;
@@ -17,3 +45,7 @@
     border: 5px solid rgb(255, 255, 255);
     margin: 0;
   }
+
+.footer {
+    text-align: center;
+}
