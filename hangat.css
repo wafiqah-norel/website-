@@ -8,6 +8,11 @@
 .body {
     font-family:'ABeeZee';
     font-size: large;
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    border: 5px solid rgb(255, 255, 255);
+    margin: 0;
 }
 
 .menu {
@@ -17,31 +22,27 @@
 
 .coloumncurang{
     padding: 10px;
+    width: 100px;
     height: 100px;
 }
 
 .coloumncoklat{
     padding: 10px;
+    width: 100px;
     height: 100px;
 }
 
 .coloumndonut{
     padding: 10px;
+    width: 100px;
     height: 100px;
 }
 
 .coloumnkurma{
     padding: 10px;
+    width: 100px;
     height: 100px;
 }
-
-.div {
-    width: 320px;
-    height: 50px;
-    padding: 10px;
-    border: 5px solid rgb(255, 255, 255);
-    margin: 0;
-  }
 
 .footer {
     text-align: center;
