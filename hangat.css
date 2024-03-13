@@ -1,43 +1,41 @@
 
 .header {
     font-family: 'Times New Roman', Times, serif;
-    background-color: crimson;
+    background: crimson;
     text-align: center;
 }
 
 .body {
     font-family:'ABeeZee';
     font-size: large;
+    background: black;
 }
 
 .menu {
-    background-color: tomato;
+    background: tomato;
     text-align: center;
 }
 
 .coloumncurang{
-    float: left;
     padding: 10px;
     height: 100px;
 }
 
 .coloumncoklat{
-    float: left;
     padding: 10px;
     height: 100px;
 }
 
 .coloumndonut{
-    float: left;
     padding: 10px;
     height: 100px;
 }
 
 .coloumnkurma{
-    float: left;
     padding: 10px;
     height: 100px;
 }
+
 .div {
     width: 320px;
     height: 50px;
